@@ -1,1 +1,1 @@
-"Because we want to manage our code changes in a much more organized version." 
+"Data science could be applied to ML. By cleaning data, we provide better training for ML models." 
