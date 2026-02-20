@@ -2,5 +2,4 @@
 
 "Data science could be applied to ML. By cleaning data, we provide better training for ML models." 
 
-
-
+"I am looking forward to hanging out with my friends this semester."
