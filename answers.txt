@@ -1,1 +1,6 @@
+"Because Git allows us to manage our code changes in an organized manner." 
+
 "Data science could be applied to ML. By cleaning data, we provide better training for ML models." 
+
+
+
